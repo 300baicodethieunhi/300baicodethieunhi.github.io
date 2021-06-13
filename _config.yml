@@ -15,9 +15,11 @@ feed_update_period: daily
 feed_update_frequency: 1
 markdown: kramdown
 kramdown:
+  input: GFM
   syntax_highlighter_opts:
     disable: false
     line_numbers: true
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
