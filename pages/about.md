@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/300-coding- lessons-for-children.jpg
 ---
 
 This website is a demonstration to see **Affiliates Jekyll theme** in action. 
