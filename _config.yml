@@ -24,6 +24,14 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
+  huonglt:
+    name: Huong Le Thanh, Ph.D.
+    display_name: Huong Le Thanh
+    avatar: 'assets/images/huonglt.jpg'
+    email: huonglt@soict.hust.edu.vn
+    web: https://users.soict.hust.edu.vn/huonglt/
+    twitter: mailto:huonglt-fit@mail.hut.edu.vn
+    description: "Department of Information Systems, School of Information and Communication Technology"
   sal:
     name: Sal
     display_name: Sal
