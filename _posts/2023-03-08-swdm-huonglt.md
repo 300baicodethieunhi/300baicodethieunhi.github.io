@@ -4,7 +4,7 @@ title: Web ngữ nghĩa và Khai phá dữ liệu
 subtitle: Semantic Web and Data Mining (Master courses)
 author: huonglt
 categories: [ Semantic Web, Data Mining, Khai phá dữ liệun, Web ngữ nghĩa ]
-image: assets/images/2023/bai-giang-khai-pha-du-lieu-web.jpg
+image: assets/images/huonglt/bai-giang-khai-pha-du-lieu-web.jpg
 ---
 ĐỀ CƯƠNG MÔN HỌC
 

@@ -4,7 +4,7 @@ title:  "Trí tuệ nhân tạo"
 subtitle: Artificial Intelligence
 author: huonglt
 categories: [ AI, Trí tuệ nhân tạo ]
-image: assets/images/2023/Trí tuệ nhân tạo - Artificial Intelligence - HuongLT.png
+image: assets/images/huonglt/Trí tuệ nhân tạo - Artificial Intelligence.png
 ---
 ## Mô tả môn học
 

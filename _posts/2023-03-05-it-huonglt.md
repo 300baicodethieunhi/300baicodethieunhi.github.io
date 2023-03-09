@@ -4,7 +4,7 @@ title: Nhập môn Công nghệ Thông tin và Truyền thông
 subtitle: Introduction to Information and Communication Technology
 author: huonglt
 categories: [ IT, Công nghệ Thông tin ]
-image: assets/images/2023/Nhập môn Công nghệ Thông tin và Truyền thông - Introduction to Information and Communication Technology - HuongLT.png
+image: assets/images/huonglt/Nhập môn Công nghệ Thông tin và Truyền thông - Introduction to Information and Communication Technology.png
 ---
 ## Mục tiêu học phần
 
