@@ -32,6 +32,14 @@ authors:
     web: https://users.soict.hust.edu.vn/huonglt/
     twitter: mailto:huonglt-fit@mail.hut.edu.vn
     description: "Department of Information Systems, School of Information and Communication Technology"
+  trungtt:
+    name: Trịnh Thành Trung, PhD
+    display_name: Trịnh Thành Trung
+    avatar: 'assets/images/trungtt.png'
+    email: huonglt@soict.hust.edu.vn
+    web: https://users.soict.hust.edu.vn/trungtt/
+    twitter: mailto:trungtt@soict.hust.edu.vn
+    description: "Khoa khoa học máy tính, Trường Công nghệ Thông tin và Truyền thông"
   sal:
     name: Sal
     display_name: Sal
