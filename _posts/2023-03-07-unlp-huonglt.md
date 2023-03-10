@@ -4,7 +4,7 @@ title:  "Xử lý ngôn ngữ tự nhiên"
 subtitle: Natural Language Processing
 author: huonglt
 categories: [ Natural Language Processing, Xử lý ngôn ngữ tự nhiên ]
-image: assets/images/2023/Xử lý ngôn ngữ tự nhiên - Natural Language Processing - HuongLT.png
+image: assets/images/huonglt/Xử lý ngôn ngữ tự nhiên - Natural Language Processing - HuongLT.png
 ---
 [ĐỀ CƯƠNG MÔN HỌC](https://users.soict.hust.edu.vn/huonglt/UNLP/decuongmonhoc.pdf)
 
