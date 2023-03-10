@@ -22,3 +22,13 @@ Slide môn học (TS. Trịnh Thành Trung biên soạn):
 11. [Bài 11: Input và Output](https://users.soict.hust.edu.vn/trungtt/uploads/slides/OOP_Bai11(vi).pdf)
 12. [Bài 12: Đồ họa và xử lý sự kiện](https://users.soict.hust.edu.vn/trungtt/uploads/slides/OOP_Bai12(vi).pdf)
 13. [Bài 13: Tổng quan về UML](https://users.soict.hust.edu.vn/trungtt/uploads/slides/OOP_Bai13(vi).pdf)
+
+-----
+Tài liệu tham khảo
+[BÀI TẬP](https://users.soict.hust.edu.vn/trungtt/uploads/tutorials/OOP%20Assignment%20Topics.pdf)
+[THỰC HÀNH](https://users.soict.hust.edu.vn/trungtt/uploads/tutorials/OOP%20Tutorials.pdf)
+[THỰC HÀNH 1](https://users.soict.hust.edu.vn/trungtt/uploads/tutorials/OOP%20Tutorial%201.pdf)
+[THỰC HÀNH 2](https://users.soict.hust.edu.vn/trungtt/uploads/tutorials/OOP%20Tutorial%202.pdf)
+[THỰC HÀNH 3](https://users.soict.hust.edu.vn/trungtt/uploads/tutorials/OOP%20Tutorial%203.pdf)
+[THỰC HÀNH 4](https://users.soict.hust.edu.vn/trungtt/uploads/tutorials/OOP%20Tutorial%204.pdf)
+[THỰC HÀNH 5](https://users.soict.hust.edu.vn/trungtt/uploads/tutorials/OOP%20Tutorial%205.pdf)
