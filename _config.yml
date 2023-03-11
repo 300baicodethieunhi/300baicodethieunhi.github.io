@@ -32,6 +32,14 @@ authors:
     web: https://users.soict.hust.edu.vn/huonglt/
     twitter: mailto:huonglt-fit@mail.hut.edu.vn
     description: "Department of Information Systems, School of Information and Communication Technology"
+  linhtd:
+    name: TRUONG THI DIEU LINH, Ph.D.
+    display_name: TRUONG THI DIEU LINH
+    avatar: 'assets/images/linhtd.jpg'
+    email: linhtd@soict.hust.edu.vn
+    web: https://users.soict.hust.edu.vn/linhtd/
+    twitter: mailto:linhtd@soict.hust.edu.vn
+    description: "Ph.D, Université de Montréal, 2007"
   trungtt:
     name: Trịnh Thành Trung, PhD
     display_name: Trịnh Thành Trung
