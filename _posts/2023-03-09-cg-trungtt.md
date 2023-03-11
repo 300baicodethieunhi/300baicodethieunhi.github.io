@@ -46,3 +46,12 @@ Xem và download slide môn học [tại đây](https://soict.hust.edu.vn/~trung
 Tham khảo thêm:
 - Lê Tấn Hùng, Huỳnh Quyết Thắng, Kỹ thuật đồ hoạ, Nhà xuất bản Khoa học và Kỹ thuật – 2000, 2002, 2005
 - [Thực hành lập trình Unity](https://users.soict.hust.edu.vn/trungtt/?T%C3%A0i_li%E1%BB%87u___T%C3%A0i_li%E1%BB%87u_tham_kh%E1%BA%A3o___L%E1%BA%ADp_tr%C3%ACnh_game_3D_c%C4%83n_b%E1%BA%A3n_v%E1%BB%9Bi_Unity)
+
+-----
+Multimedia, trò chơi và các hệ thống giải trí
+- [Bài 1: Tổng quan](https://users.soict.hust.edu.vn/trungtt/uploads/slides/Multimedia_Bai01.pdf)
+- [Bài 2: Các kiến thức cơ bản](https://users.soict.hust.edu.vn/trungtt/uploads/slides/Multimedia_Bai02.pdf)
+- [Bài 3: Ảnh](https://users.soict.hust.edu.vn/trungtt/uploads/slides/Multimedia_Bai03.pdf)
+- [Bài 4: Màu sắc](https://users.soict.hust.edu.vn/trungtt/uploads/slides/Multimedia_Bai04.pdf)
+- [Bài 5: Video](https://users.soict.hust.edu.vn/trungtt/uploads/slides/Multimedia_Bai05.pdf)
+- [Bài 6: Âm thanh](https://users.soict.hust.edu.vn/trungtt/uploads/slides/Multimedia_Bai06.pdf)
