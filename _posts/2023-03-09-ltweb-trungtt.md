@@ -17,9 +17,7 @@ Sau khi kết thúc môn học, sinh viên sẽ có thể:
 
 - 
 
-## Slide môn học (TS. Trịnh Thành Trung biên soạn):
-
-Xem và download slide môn học [tại đây](https://users.soict.hust.edu.vn/trungtt/?Resource___Slides___K%E1%BB%B9_thu%E1%BA%ADt_l%E1%BA%ADp_tr%C3%ACnh)
+## Slide môn học:
 
 1. [Bài 1: Tổng quan](https://users.soict.hust.edu.vn/trungtt/uploads/slides/LTWeb_Bai01.pdf)
 2. [Bài 2: HTML căn bản](https://users.soict.hust.edu.vn/trungtt/uploads/slides/LTWeb_Bai02.pdf)
@@ -36,4 +34,4 @@ Xem và download slide môn học [tại đây](https://users.soict.hust.edu.vn/
 
 -----
 Tham khảo thêm:
-- 
+- [https://users.soict.hust.edu.vn/trungtt/?Resource___Slides___Thi%E1%BA%BFt_k%E1%BA%BF_v%C3%A0_l%E1%BA%ADp_tr%C3%ACnh_Web](https://users.soict.hust.edu.vn/trungtt/?Resource___Slides___Thi%E1%BA%BFt_k%E1%BA%BF_v%C3%A0_l%E1%BA%ADp_tr%C3%ACnh_Web)
