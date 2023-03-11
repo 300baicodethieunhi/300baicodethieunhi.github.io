@@ -30,7 +30,7 @@ Xem và download slide môn học [tại đây](https://users.soict.hust.edu.vn/
 7. [Bài 7: Tăng hiệu năng chương trình](https://users.soict.hust.edu.vn/trungtt/uploads/slides/KTLT_Bai07.pdf)
 8. [Bài 8: Lập trình phòng ngừa](https://users.soict.hust.edu.vn/trungtt/uploads/slides/KTLT_Bai08.pdf)
 9. [Bài 9: Gỡ lỗi và kiểm thử](https://users.soict.hust.edu.vn/trungtt/uploads/slides/KTLT_Bai09.pdf)
-10.[Bài 10: Viết tài liệu
+10. Bài 10: Viết tài liệu
 
 Bài tập thực hành ([Xem tại đây](https://docs.google.com/document/d/0B6HCn9f_dk0VdkRCejcyV1ZBNTg/edit?usp=sharing&ouid=101868121173712839710&resourcekey=0-1yjW6WFdGEpc8Py0P_R-8w&rtpof=true&sd=true))
 -----
