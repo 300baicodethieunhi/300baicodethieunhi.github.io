@@ -48,6 +48,14 @@ authors:
     web: https://users.soict.hust.edu.vn/trungtt/
     twitter: http://trungtt.com
     description: "Khoa khoa học máy tính, Trường Công nghệ Thông tin và Truyền thông"
+  phuongnh:
+    name: NGUYEN Hong Phuong, MSc, Senior lecturer 
+    display_name: NGUYEN Hong Phuong
+    avatar: 'assets/images/phuongnh.jpg'
+    email: phuongnh@soict.hust.edu.vn
+    web: https://users.soict.hust.edu.vn/phuongnh/
+    twitter: mailto:phuongnh@gmail.com
+    description: "Khoa khoa học máy tính, Trường Công nghệ Thông tin và Truyền thông"
   sal:
     name: Sal
     display_name: Sal

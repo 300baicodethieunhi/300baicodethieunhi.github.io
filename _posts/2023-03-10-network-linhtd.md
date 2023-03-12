@@ -4,7 +4,7 @@ title: Mạng máy tính
 subtitle: Computer Networks
 author: linhtd
 categories: [ Mạng máy tính, Computer Networks ]
-image: assets/images/linhtd/network.jpg
+image: assets/images/linhtd/network.png
 ---
 
 ## Mục tiêu:
