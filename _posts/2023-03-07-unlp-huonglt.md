@@ -97,11 +97,17 @@ Apache OpenNLP (viết bằng Java): http://opennlp.apache.org/
 Apache UIMA: https://uima.apache.org/
 GATE (General architecture for text engineering, viết bằng Java): https://gate.ac.uk/
 
+-----
+Tham khảo:
+- [https://users.soict.hust.edu.vn/huonglt/UNLP/index.htm](https://users.soict.hust.edu.vn/huonglt/UNLP/index.htm)
+- [https://users.soict.hust.edu.vn/huonglt/UNLP/lecture%20notes.htm](https://users.soict.hust.edu.vn/huonglt/UNLP/lecture%20notes.htm)
+- [https://users.soict.hust.edu.vn/huonglt/UNLP/assignment.htm](https://users.soict.hust.edu.vn/huonglt/UNLP/assignment.htm)
+
+-----
 Các tài liệu tham khảo:
 1. Grant Ingersoll, Thomas Morton, Drew Farris. Taming Text : cho người lập trình bắt đầu học NLP và Search. Mỗi chương đều có ví dụ sử dụng các mã nguồn mở.
 2. Steven Bird, Ewan Klein, and Edward Loper .Natural Language Processing with Python : hướng dẫn sử dụng NLTK qua các công việc như phân loại văn bản, trích rút thông tin, …
 
------
 Tài liệu tham khảo về lý thuyết
 1. Christopher Manning and Hinrich Schütze. 1999. Foundations of Statistical Natural Language Processing. The MIT Press.
 2. Dan Jurafsky and James Martin. 2000. Speech and Language Processing. PrenticeHall.

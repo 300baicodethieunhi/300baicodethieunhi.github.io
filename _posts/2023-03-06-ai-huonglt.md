@@ -88,3 +88,6 @@ Các đề tài dưới đây có tính chất tham khảo. Sinh viên có thể
 Tham khảo:
 1. Stuart Russell and Peter Norvig. Artificial Intelligence: A Modern Approach. Prentice Hall, 4th Edition, 2020
 2. T. M. Mitchell. Machine Learning. McGraw-Hill, 1997.
+3. [https://users.soict.hust.edu.vn/huonglt/AI/index.htm](https://users.soict.hust.edu.vn/huonglt/AI/index.htm)
+4. [https://users.soict.hust.edu.vn/huonglt/AI/lecture%20notes.htm](https://users.soict.hust.edu.vn/huonglt/AI/lecture%20notes.htm)
+5. [https://users.soict.hust.edu.vn/huonglt/AI/assignment.htm](https://users.soict.hust.edu.vn/huonglt/AI/assignment.htm)

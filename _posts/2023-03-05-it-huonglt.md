@@ -43,3 +43,9 @@ Ngành công nghệ thông tin, môi trường học tập, các kỹ năng tra 
 [Bài tập kỹ năng tranh biện](https://users.soict.hust.edu.vn/huonglt/IT/Bai%20tap%20tranh%20bien.pdf)  
 [Bài tập kỹ năng viết email](https://users.soict.hust.edu.vn/huonglt/IT/Bai%20tap%20viet%20email.pdf)  
 [Tiêu chí đánh giá kỹ năng](https://users.soict.hust.edu.vn/huonglt/IT/tieu%20chi%20danh%20gia%20ky%20nang.pdf)
+
+-----
+Tham khảo
+
+- [https://users.soict.hust.edu.vn/huonglt/IT/index.htm](https://users.soict.hust.edu.vn/huonglt/IT/index.htm)
+- [https://users.soict.hust.edu.vn/huonglt/IT/lecture%20notes.htm](https://users.soict.hust.edu.vn/huonglt/IT/lecture%20notes.htm)

@@ -31,4 +31,4 @@ Thực hành:
 
 -----
 Tham khảo thêm:
-- [https://users.soict.hust.edu.vn/trungtt/?Resource___Slides___L%E1%BA%ADp_tr%C3%ACnh_C_n%C3%A2ng_cao](https://users.soict.hust.edu.vn/trungtt/?Resource___Slides___L%E1%BA%ADp_tr%C3%ACnh_C_n%C3%A2ng_cao)
+- https://users.soict.hust.edu.vn/trungtt/?Resource___Slides___L%E1%BA%ADp_tr%C3%ACnh_C_n%C3%A2ng_cao

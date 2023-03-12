@@ -84,6 +84,12 @@ http://lucene.apache.org/java/docs/index.html
 http://www.loria.fr/~lehong/tools/vnTokenizer.php (công cụ tách từ tiếng Việt)
 
 -----
+Tham khảo:
+- [https://users.soict.hust.edu.vn/huonglt/NLP/index.htm](https://users.soict.hust.edu.vn/huonglt/NLP/index.htm)
+- [https://users.soict.hust.edu.vn/huonglt/NLP/lecture%20notes.htm](https://users.soict.hust.edu.vn/huonglt/NLP/lecture%20notes.htm)
+- [https://users.soict.hust.edu.vn/huonglt/NLP/assignment.htm](https://users.soict.hust.edu.vn/huonglt/NLP/assignment.htm)
+
+-----
 Tài liệu tham khảo về lý thuyết
 1. Christopher Manning and Hinrich Schütze. 1999. Foundations of Statistical Natural Language Processing. The MIT Press.
 2. Dan Jurafsky and James Martin. 2000. Speech and Language Processing. PrenticeHall.
