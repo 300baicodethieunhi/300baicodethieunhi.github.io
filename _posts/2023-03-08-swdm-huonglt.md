@@ -16,6 +16,8 @@ Kết thúc học phần này, học viên có kiến thức về học viên c�
 
 Giới thiệu về quá trình khai phá dữ liệu. Tiền xử lý dữ liệu. Kỹ thuật phát hiện các luật kết hợp. Các kỹ thuật phân lớp và dự đoán, kiến thức cơ sở về ontology và các công nghệ được sử dụng trong web ngữ nghĩa như XML, RDF, OWL, SWRL và dịch vụ web ngữ nghĩa. Các công cụ điển hình khai phá dữ liệu và Web ngữ nghĩa
 
+[https://users.soict.hust.edu.vn/huonglt/swdm/index.htm](https://users.soict.hust.edu.vn/huonglt/swdm/index.htm)
+
 ## Bài giảng
 
 1. [Giới thiệu môn học](https://users.soict.hust.edu.vn/huonglt/swdm/Gioi_thieu_mon_hoc.pdf)
@@ -24,8 +26,8 @@ Giới thiệu về quá trình khai phá dữ liệu. Tiền xử lý dữ li�
 4. [Phát hiện các luật kết hợp](https://users.soict.hust.edu.vn/huonglt/swdm/Phat_hien_luat_ket_hop.pdf)
 5. Phân lớp và dự đoán
 6. Phân nhóm
-7. 
-8. 
+
+[https://users.soict.hust.edu.vn/huonglt/swdm/lecture%20notes.htm](https://users.soict.hust.edu.vn/huonglt/swdm/lecture%20notes.htm)
 
 ## Bài tập lớn
 

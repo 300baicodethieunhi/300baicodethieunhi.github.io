@@ -60,6 +60,18 @@ Tham khảo thêm:
 - Lecture 9 [Application layer](https://users.soict.hust.edu.vn/linhtd/courses/ComputerNetworks/Lecture%209%20-%20Application%20layer.pdf)
 
 -----
+Mạng máy thế hệ sau
+
+- Lecture 1 [Cơ bản về mạng máy tính (updated 29/9/2021)](https://users.soict.hust.edu.vn/linhtd/courses/AdvancedNet/01-Co_ban_ve_mang.pdf)
+- Lecture 2 [IP và các giao thức chọn đường (updated 6/10/2021)](https://users.soict.hust.edu.vn/linhtd/courses/AdvancedNet/02-IP_giao_thuc_chon_duong.pdf), [BGP (updated 6/10/2021)](https://users.soict.hust.edu.vn/linhtd/courses/AdvancedNet/02-BGP.pdf)
+- Lecture 3 [Tầng giao vận, quản lý tắc nghẽn](https://users.soict.hust.edu.vn/linhtd/courses/AdvancedNet/03-TCP_congestion_control.pdf)
+- Lecture 4 [Mạng thông tin quang (update 19/11/2022)](https://users.soict.hust.edu.vn/linhtd/courses/AdvancedNet/04-Mang%20thong%20tin%20quang.pdf)
+- Lecture 5 [Mạng SDN](https://users.soict.hust.edu.vn/linhtd/courses/AdvancedNet/05-SDN%20Network.pdf)
+
+Tham khảo thêm khảo tại
+https://people.csail.mit.edu/alizadeh/courses/6.888/slides/lecture14.pdf
+
+-----
 Tài liệu tham khảo
 1. **Computer Network**, 5th Edition, Andrew Tannenbaum, Pearson Education 2011
 2. **Networking: a top-down approach featuring the Internet**, 6th Edition, James F. Kurose, Keith W. Ross, Addison Wesley 2012
