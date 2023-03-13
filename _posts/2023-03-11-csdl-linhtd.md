@@ -19,12 +19,12 @@ Làm bài tập đầy đủ
 
 ## Đề cương
 
-Chương 1: Đại cương về các hệ cơ sở dữ liệu
-Chương 2: Các mô hình dữ liệu
-Chương 3: Ngôn ngữ định nghĩa và thao tác dữ liệu đối với mô hình quan hệ
-Chương 4: Lý thuyết thiết kế cơ sở dữ liệu quan hệ
-Chương 5: An toàn và toàn vẹn dữ liệu
-Chương 6: Tối ưu hóa truy vấn
+Chương 1: Đại cương về các hệ cơ sở dữ liệu  
+Chương 2: Các mô hình dữ liệu  
+Chương 3: Ngôn ngữ định nghĩa và thao tác dữ liệu đối với mô hình quan hệ  
+Chương 4: Lý thuyết thiết kế cơ sở dữ liệu quan hệ  
+Chương 5: An toàn và toàn vẹn dữ liệu  
+Chương 6: Tối ưu hóa truy vấn  
 Chương 7: Tổ chức dữ liệu vật lý
 
 Bài thực hành dành cho SV học IT3090 (15 tiết). SV chú ý đăng ký lớp thực hành trước khi đăng ký lớp lý thuyết.
