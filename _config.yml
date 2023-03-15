@@ -24,6 +24,14 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
+  sami:
+    name: Viện Toán ứng dụng và Tin học
+    display_name: Trường Đại học Bách khoa Hà Nội
+    avatar: 'assets/images/sami.png'
+    email: sami@hust.edu.vn
+    web: https://sami.hust.edu.vn
+    twitter: https://www.facebook.com/SamiHust/
+    description: "Department of Information Systems, School of Information and Communication Technology"
   huonglt:
     name: Huong Le Thanh, Ph.D.
     display_name: Huong Le Thanh
